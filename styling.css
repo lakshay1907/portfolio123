@@ -1,0 +1,33 @@
+.header{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    color: yellow;
+}
+h2{
+   font-size: 80px;
+   
+}
+body{
+    background-image: url("background2.jpg");
+}
+.heading{
+    color:yellow;
+}
+.menu{
+    display:flex ;
+    justify-content: space-evenly;
+    margin: 2%;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+img{
+    border-radius: 20%;
+}
+h2{
+    color: white;
+}
